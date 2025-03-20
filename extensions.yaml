@@ -60,3 +60,5 @@
   publisher: Orta
 - name: playwright
   publisher: ms-playwright
+- name: vscode-import-cost
+  publisher: wix
