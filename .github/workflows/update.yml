@@ -11,13 +11,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Install Nix
-        uses: cachix/install-nix-action@v31
+        uses: DeterminateSystems/nix-installer-action@main
         with:
-          github_access_token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Merge upstream
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Update extensions
         run: |
-          ./codelldb/update.sh
-          ./update-vscode-plugins.py
+          nix flake update
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Push changes
