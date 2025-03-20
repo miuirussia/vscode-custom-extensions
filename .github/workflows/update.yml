@@ -17,6 +17,7 @@ jobs:
       - name: Update extensions
         run: |
           nix flake update
+          nix run .#update
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Push changes
