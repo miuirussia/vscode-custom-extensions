@@ -184,5 +184,11 @@
     "publisher": "ms-playwright",
     "sha256": "sha256-gSIWwD8WHKMM5wpuPpSKpBB+oxaqO2vO8wHTN43jmrM=",
     "version": "1.1.13"
+  },
+  {
+    "name": "vscode-import-cost",
+    "publisher": "wix",
+    "sha256": "sha256-GQ26Cmu9F/6+3NMoxsb1BHqKqaVAx+qWNW0rYBHdiHI=",
+    "version": "3.3.0"
   }
 ]
