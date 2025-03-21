@@ -164,8 +164,8 @@
   {
     "name": "vscode-tailwindcss",
     "publisher": "bradlc",
-    "sha256": "sha256-hMR6Te7T+sDeTPhaMsK/TJDS2S6pCKS36solhvqfPfs=",
-    "version": "0.14.9"
+    "sha256": "sha256-sZcbUIAs4m96rBfYJbyZegqAqL71+OjVykqna+QMdu0=",
+    "version": "0.14.11"
   },
   {
     "name": "prettier-vscode",
@@ -190,5 +190,11 @@
     "publisher": "wix",
     "sha256": "sha256-GQ26Cmu9F/6+3NMoxsb1BHqKqaVAx+qWNW0rYBHdiHI=",
     "version": "3.3.0"
+  },
+  {
+    "name": "EditorConfig",
+    "publisher": "EditorConfig",
+    "sha256": "sha256-Xi2+mN6zjIKm0HWxfRAFs2vYkZ10Gv6poR2b2d8XCug=",
+    "version": "0.17.2"
   }
 ]
