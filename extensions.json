@@ -98,8 +98,8 @@
   {
     "name": "explorer",
     "publisher": "vitest",
-    "sha256": "sha256-ZtTsJOETNZ8I9JhEjMYjzcKv22K+J+LaPdFLvJq0JF0=",
-    "version": "1.16.1"
+    "sha256": "sha256-7OePMFsWIyrPkAW/+SRiOoowluLMEszEjWmBsW0LPpc=",
+    "version": "1.17.0"
   },
   {
     "name": "vscode-postcss",
