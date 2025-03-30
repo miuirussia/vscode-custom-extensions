@@ -1,5 +1,5 @@
 #!/usr/bin/env nix-shell
-#! nix-shell -i bash -p coreutils curl jq nixVersions.git
+#! nix-shell -i bash -p coreutils curl jq nixVersions.latest
 set -euo pipefail
 
 cd "$(pwd)/$(dirname "${BASH_SOURCE}")" || exit
