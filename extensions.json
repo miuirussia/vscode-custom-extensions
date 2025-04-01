@@ -8,8 +8,8 @@
   {
     "name": "flow-for-vscode",
     "publisher": "flowtype",
-    "sha256": "sha256-B3YaDSFgF3hsAo/lZtReeiVJHymnqWhC5eLqy0/nLgg=",
-    "version": "3.0.0"
+    "sha256": "sha256-E9L72OXRh7tuNA5PuRoc3JdAGp8yVSMEly01c9/oR/s=",
+    "version": "3.1.0"
   },
   {
     "name": "Nix",
