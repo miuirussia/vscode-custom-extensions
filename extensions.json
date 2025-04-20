@@ -2,8 +2,8 @@
   {
     "name": "vscode-jest",
     "publisher": "orta",
-    "sha256": "sha256-q/N6jYX/B/A/R2wCVbnoF6cUwfzZJtkcTlg4xMVedIs=",
-    "version": "6.4.1"
+    "sha256": "sha256-vAo8Os9OAAJ7XELeJKRhei4PbjXIG9oa9NiHiXnkG/E=",
+    "version": "6.4.2"
   },
   {
     "name": "flow-for-vscode",
@@ -92,8 +92,8 @@
   {
     "name": "vscode-neovim",
     "publisher": "asvetliakov",
-    "sha256": "sha256-JGyyvDZQmlVGwEwQHh+82yK7uSrtt/HBaWHzbiGJ614=",
-    "version": "1.18.19"
+    "sha256": "sha256-g3rRdFjbxrp9y/dVhj/2GUJvDbG92VGq/jPtlLXV2kM=",
+    "version": "1.18.20"
   },
   {
     "name": "explorer",
