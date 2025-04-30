@@ -98,8 +98,8 @@
   {
     "name": "explorer",
     "publisher": "vitest",
-    "sha256": "sha256-6iggguokqdL4JxQNDVRRLx1YBHvTjqmlwvdeiP5hmlk=",
-    "version": "1.17.1"
+    "sha256": "sha256-U4NYmn8p2CfZIHUrcYaxt6kGayMEzjzhkag7XfyeEGA=",
+    "version": "1.18.0"
   },
   {
     "name": "vscode-postcss",
@@ -182,8 +182,8 @@
   {
     "name": "playwright",
     "publisher": "ms-playwright",
-    "sha256": "sha256-gSIWwD8WHKMM5wpuPpSKpBB+oxaqO2vO8wHTN43jmrM=",
-    "version": "1.1.13"
+    "sha256": "sha256-OhXpqP5PX/E2125MZQVOz+kdJybh0D6DV202HL5gjO0=",
+    "version": "1.1.14"
   },
   {
     "name": "vscode-import-cost",
