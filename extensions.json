@@ -92,8 +92,8 @@
   {
     "name": "vscode-neovim",
     "publisher": "asvetliakov",
-    "sha256": "sha256-g3rRdFjbxrp9y/dVhj/2GUJvDbG92VGq/jPtlLXV2kM=",
-    "version": "1.18.20"
+    "sha256": "sha256-I5jrp8sGn+M8bJo93jNrx+s4sB0p3sGN4lLLROstkKA=",
+    "version": "1.18.21"
   },
   {
     "name": "explorer",
