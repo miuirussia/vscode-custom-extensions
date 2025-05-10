@@ -80,8 +80,8 @@
   {
     "name": "vscode-thunder-client",
     "publisher": "rangav",
-    "sha256": "sha256-zXDCcudNzpkTlQtXaiv/APxdYZOPzIeKmlNOIACJLsE=",
-    "version": "2.34.3"
+    "sha256": "sha256-7kS7dhPjRNf6UBpZwTo0IsE9PLU3WxSypibas2nAvmk=",
+    "version": "2.34.4"
   },
   {
     "name": "hadolint",
@@ -98,8 +98,8 @@
   {
     "name": "explorer",
     "publisher": "vitest",
-    "sha256": "sha256-U4NYmn8p2CfZIHUrcYaxt6kGayMEzjzhkag7XfyeEGA=",
-    "version": "1.18.0"
+    "sha256": "sha256-M/eC7nmFj3BQGlx9J2kqLAKObPYhAit7hVdKYuQlfKw=",
+    "version": "1.18.1"
   },
   {
     "name": "vscode-postcss",
