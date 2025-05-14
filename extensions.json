@@ -196,5 +196,11 @@
     "publisher": "EditorConfig",
     "sha256": "sha256-Xi2+mN6zjIKm0HWxfRAFs2vYkZ10Gv6poR2b2d8XCug=",
     "version": "0.17.2"
+  },
+  {
+    "name": "volar",
+    "publisher": "Vue",
+    "sha256": "sha256-cQxDoKDfzifcGTkhS8rC+JUQofbxMfXmkJF1CwiU1nc=",
+    "version": "2.2.10"
   }
 ]

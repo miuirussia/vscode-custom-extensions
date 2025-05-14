@@ -64,3 +64,5 @@
   publisher: wix
 - name: EditorConfig
   publisher: EditorConfig
+- name: volar
+  publisher: Vue
