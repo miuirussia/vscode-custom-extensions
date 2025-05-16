@@ -9,10 +9,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           persist-credentials: true
+      - name: Clear shit
+        uses: wimpysworld/nothing-but-nix@main
       - name: Install Nix
         uses: DeterminateSystems/nix-installer-action@main
         with:
