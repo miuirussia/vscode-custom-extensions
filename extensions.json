@@ -50,8 +50,8 @@
   {
     "name": "nix-ide",
     "publisher": "jnoortheen",
-    "sha256": "sha256-MdFDOg9uTUzYtRW2Kk4L8V3T/87MRDy1HyXY9ikqDFY=",
-    "version": "0.4.16"
+    "sha256": "sha256-ucy1Z0VcikEIU+s/Ai2qgJcUkEoNcAo7y7A2nuq3yZo=",
+    "version": "0.4.18"
   },
   {
     "name": "ide-purescript",
