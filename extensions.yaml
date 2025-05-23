@@ -62,7 +62,7 @@
   publisher: ms-playwright
 - name: vscode-import-cost
   publisher: wix
-- name: EditorConfig
-  publisher: EditorConfig
+- name: editorconfig
+  publisher: editorconfig
 - name: volar
   publisher: Vue

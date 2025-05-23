@@ -192,8 +192,8 @@
     "version": "3.3.0"
   },
   {
-    "name": "EditorConfig",
-    "publisher": "EditorConfig",
+    "name": "editorconfig",
+    "publisher": "editorconfig",
     "sha256": "sha256-Xi2+mN6zjIKm0HWxfRAFs2vYkZ10Gv6poR2b2d8XCug=",
     "version": "0.17.2"
   },
