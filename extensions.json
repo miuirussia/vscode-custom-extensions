@@ -110,8 +110,8 @@
   {
     "name": "gitblame",
     "publisher": "waderyan",
-    "sha256": "sha256-TlvMyFmtJQtpsjbdh3bPiRaMHro0M7gKOgtGc2bQLN4=",
-    "version": "11.1.2"
+    "sha256": "sha256-r+fmb382hzxD7frrsNZTJk6uPahO7QBfKTJWA0ObWFI=",
+    "version": "11.1.3"
   },
   {
     "name": "ayu",
@@ -164,8 +164,8 @@
   {
     "name": "vscode-tailwindcss",
     "publisher": "bradlc",
-    "sha256": "sha256-HgrUTrYHJNC8tS8qZza98Tr3T0O0NMb7DgddNf3m7XY=",
-    "version": "0.14.19"
+    "sha256": "sha256-Q45o7UAqyPuSMI02BOyXHzD5eqOJLYcYGnwA+eppEj4=",
+    "version": "0.14.20"
   },
   {
     "name": "prettier-vscode",
