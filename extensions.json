@@ -194,8 +194,8 @@
   {
     "name": "editorconfig",
     "publisher": "editorconfig",
-    "sha256": "sha256-IyeWMybUkY8MFi/q2nw63DY85BAV/y4J8QGknFIyhUE=",
-    "version": "0.17.3"
+    "sha256": "sha256-MYPYhSKAxgaZ0UijxU+xiO4HDPLtXGymhN+2YmTev8M=",
+    "version": "0.17.4"
   },
   {
     "name": "volar",
