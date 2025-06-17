@@ -80,8 +80,8 @@
   {
     "name": "vscode-thunder-client",
     "publisher": "rangav",
-    "sha256": "sha256-K0zsgtX1lZptLbeNBA6kFTdNhNWDwtwGfs/4kAHvNW8=",
-    "version": "2.35.0"
+    "sha256": "sha256-imClO22XcLA50rR7WXLiRsdXDF2gleS7iMUDlSFyDP4=",
+    "version": "2.35.2"
   },
   {
     "name": "hadolint",
@@ -98,8 +98,8 @@
   {
     "name": "explorer",
     "publisher": "vitest",
-    "sha256": "sha256-iGXWLtb9NldYcm5joMB2ZSKZYoGB+IDThPIzjrsnfKQ=",
-    "version": "1.24.1"
+    "sha256": "sha256-Kla8c1nwr+K619SEILPrNPr3rFPTSCb/GfVev/tofII=",
+    "version": "1.24.3"
   },
   {
     "name": "vscode-postcss",
@@ -164,8 +164,8 @@
   {
     "name": "vscode-tailwindcss",
     "publisher": "bradlc",
-    "sha256": "sha256-TRc0RAhVZuvMHqmvNnDQlj1udslvQofxYvJnv/Ftp/g=",
-    "version": "0.14.21"
+    "sha256": "sha256-shusQwFavUMDJQZfDkUklMerOJ/dqwvUBisn2uxeKQ0=",
+    "version": "0.14.22"
   },
   {
     "name": "prettier-vscode",
