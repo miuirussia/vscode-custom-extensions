@@ -98,8 +98,8 @@
   {
     "name": "explorer",
     "publisher": "vitest",
-    "sha256": "sha256-8W30ouGXUCRNiRwNAhK0WREj7Pnhz2PVtj38bpH1WNU=",
-    "version": "1.26.0"
+    "sha256": "sha256-RNRpUWq9dTSOGeLsINrUHy6+nPov+SAsCDRTB1D/3Rs=",
+    "version": "1.26.3"
   },
   {
     "name": "vscode-postcss",
@@ -164,8 +164,8 @@
   {
     "name": "vscode-tailwindcss",
     "publisher": "bradlc",
-    "sha256": "sha256-/JZ38KVIzxv3w6czb/9MNt2WcKuqBb1i2c4D2BYBSFU=",
-    "version": "0.14.24"
+    "sha256": "sha256-NXA7UDSo6G0Did6tzwgIYnjR+ymoY7V5aUtaFzqlVik=",
+    "version": "0.14.25"
   },
   {
     "name": "prettier-vscode",
