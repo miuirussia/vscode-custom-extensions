@@ -80,8 +80,8 @@
   {
     "name": "vscode-thunder-client",
     "publisher": "rangav",
-    "sha256": "sha256-p9DA6r2pX7KAVO5ecu7cinBOXbtAP9HO3Y1m4+pzSYg=",
-    "version": "2.35.3"
+    "sha256": "sha256-vXtv7rKQoJH+J59v/8qXyBfqcGTpaxZVtWR9YKeOz/Q=",
+    "version": "2.36.0"
   },
   {
     "name": "hadolint",
@@ -202,5 +202,11 @@
     "publisher": "Vue",
     "sha256": "sha256-nv9DmW7DuYVVsibpSJ8A7AawsL9cySgp2r5xgpE0WYM=",
     "version": "3.0.1"
+  },
+  {
+    "name": "vscode-github-actions",
+    "publisher": "github",
+    "sha256": "sha256-yWQQxYRdU5WWaIiGvCtLYH3mrwDv+frm2ml1S1KPThk=",
+    "version": "0.27.2"
   }
 ]
