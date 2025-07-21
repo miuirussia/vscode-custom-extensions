@@ -68,3 +68,5 @@
   publisher: Vue
 - name: vscode-github-actions
   publisher: github
+- name: vscode-github-actions
+  publisher: me-dutour-mathieu
