@@ -208,5 +208,11 @@
     "publisher": "github",
     "sha256": "sha256-yWQQxYRdU5WWaIiGvCtLYH3mrwDv+frm2ml1S1KPThk=",
     "version": "0.27.2"
+  },
+  {
+    "name": "vscode-github-actions",
+    "publisher": "me-dutour-mathieu",
+    "sha256": "sha256-I5qZk/svJIlnV2ggwMLu5Bfvly3vyshT5y51V4/nQLI=",
+    "version": "3.0.1"
   }
 ]
