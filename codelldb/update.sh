@@ -3,7 +3,7 @@
 set -euo pipefail
 
 cd "$(pwd)/$(dirname "${BASH_SOURCE}")" || exit
-version=$(curl -L "https://api.github.com/repos/vadimcn/vscode-lldb/tags" | jq -r ".[0].name")
+version=$(curl -H "Authorization: token $GITHUB_TOKEN" -L "https://api.github.com/repos/vadimcn/vscode-lldb/tags" | jq -r ".[0].name")
 if [ -z "$version" ]
 then
   echo "version fetch failed"

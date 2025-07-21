@@ -21,7 +21,9 @@
               set -euo pipefail
               export PATH=${lib.makeBinPath [ gitMinimal jq nixVersions.latest hostname node2nix ]}
               export NIX_PATH=nixpkgs=${inputs.nixpkgs}
+              echo "Updating plugins..."
               ./update-vscode-plugins.py
+              echo "Updating codelldb..."
               ./codelldb/update.sh
             '';
           in "${script}";
