@@ -34,7 +34,7 @@
 
           vscode-custom-extensions =
             foldl' (
-              acc: item: acc // { "${item.name}" = prev.vscode-utils.extensionFromVscodeMarketplace item; }
+              acc: item: lib.attrsets.recursiveUpdate acc { "${item.publisher}"."${item.name}" = prev.vscode-utils.extensionFromVscodeMarketplace item; }
             ) { } (fromJSON (readFile ./extensions.json))
             // {
               codelldb = import ./codelldb { pkgs = prev; };
