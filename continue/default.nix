@@ -1,7 +1,7 @@
 { pkgs }:
 
 pkgs.vscode-utils.buildVscodeMarketplaceExtension {
-  vsix = ./continue-1.1.12.zip;
+  vsix = ./continue-1.1.67.zip;
 
   nativeBuildInputs = with pkgs; [
     autoPatchelfHook
@@ -13,6 +13,6 @@ pkgs.vscode-utils.buildVscodeMarketplaceExtension {
   mktplcRef = {
     publisher = "Continue";
     name = "continue";
-    version = "1.1.12";
+    version = "1.1.67";
   };
 }
