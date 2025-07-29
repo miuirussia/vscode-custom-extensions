@@ -62,8 +62,8 @@
   {
     "name": "language-purescript",
     "publisher": "nwolverson",
-    "sha256": "sha256-9LBdo6lj+hz2NsvPmMV73nCT7uk6Q/ViguiilngOsGc=",
-    "version": "0.2.9"
+    "sha256": "sha256-JBKswfQuxaZe6stgwFsyxS9hlil6OXKzFGV11za6JbQ=",
+    "version": "0.2.10"
   },
   {
     "name": "vscode-nginx",
