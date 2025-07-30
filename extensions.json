@@ -214,5 +214,11 @@
     "publisher": "me-dutour-mathieu",
     "sha256": "sha256-I5qZk/svJIlnV2ggwMLu5Bfvly3vyshT5y51V4/nQLI=",
     "version": "3.0.1"
+  },
+  {
+    "name": "vscode-custom-css",
+    "publisher": "be5invis",
+    "sha256": "sha256-Vq+GG72T4eDEOyppuBaBqwuNQ1yf3T0uuLpZb7mQhOk=",
+    "version": "7.4.7"
   }
 ]
