@@ -70,3 +70,5 @@
   publisher: github
 - name: vscode-github-actions
   publisher: me-dutour-mathieu
+- name: vscode-custom-css
+  publisher: be5invis
