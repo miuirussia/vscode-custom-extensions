@@ -220,5 +220,11 @@
     "publisher": "be5invis",
     "sha256": "sha256-Vq+GG72T4eDEOyppuBaBqwuNQ1yf3T0uuLpZb7mQhOk=",
     "version": "7.4.7"
+  },
+  {
+    "name": "stately-vscode",
+    "publisher": "statelyai",
+    "sha256": "sha256-ZTbdFDN/5HpwQiPAnFcYQ9o+2+Rx/akflP9tjkmG3Jg=",
+    "version": "2.1.0"
   }
 ]
