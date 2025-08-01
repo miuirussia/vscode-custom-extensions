@@ -226,5 +226,11 @@
     "publisher": "statelyai",
     "sha256": "sha256-ZTbdFDN/5HpwQiPAnFcYQ9o+2+Rx/akflP9tjkmG3Jg=",
     "version": "2.1.0"
+  },
+  {
+    "name": "pug",
+    "publisher": "amandeepmittal",
+    "sha256": "sha256-hHMMK4WH0LMflcUJ5D1hU/BZZjMWBkTK0Su+HLuVgQA=",
+    "version": "1.0.1"
   }
 ]
