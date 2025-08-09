@@ -74,14 +74,14 @@
   {
     "name": "shellcheck",
     "publisher": "timonwong",
-    "sha256": "sha256-pcJNv5VMiruFIn74AKox7g+3YEFzflb/U5jBi/3on8Q=",
-    "version": "0.38.2"
+    "sha256": "sha256-qDispRN7jRIIsP+5lamyR+sNoOwTwl+55QftzO7WBm4=",
+    "version": "0.38.3"
   },
   {
     "name": "vscode-thunder-client",
     "publisher": "rangav",
-    "sha256": "sha256-TBBJD03LO9Eucs4t26AkAwpwMXuR0w7OxRgSuR9HseQ=",
-    "version": "2.37.4"
+    "sha256": "sha256-P50jK4hg8GFg+rQ8HbeLzcMXCzvD72mF7kaGW6a1L7Y=",
+    "version": "2.37.5"
   },
   {
     "name": "hadolint",
@@ -92,8 +92,8 @@
   {
     "name": "vscode-neovim",
     "publisher": "asvetliakov",
-    "sha256": "sha256-nSRZGRhqRO52dx3QfSJZR5uVNVaxw0mcH/JBFyrUGKA=",
-    "version": "1.18.22"
+    "sha256": "sha256-x8amgtsyWMtlV4lHgr0rfBAYzVMpQGzyBqMVTV8hs60=",
+    "version": "1.18.23"
   },
   {
     "name": "explorer",
