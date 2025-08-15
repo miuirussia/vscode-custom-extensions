@@ -122,8 +122,8 @@
   {
     "name": "vscode-eslint",
     "publisher": "dbaeumer",
-    "sha256": "sha256-UxD07bouMK8nuysh5TAV7ZVhkLiOV6R1qfvVZcXB2Hc=",
-    "version": "3.0.16"
+    "sha256": "sha256-hHFf5//rJZ8tJygPpU4OTyqBIZUw5J87/6YpZBDCK+o=",
+    "version": "3.0.17"
   },
   {
     "name": "todo-tree",
