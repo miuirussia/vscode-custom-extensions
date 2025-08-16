@@ -92,14 +92,14 @@
   {
     "name": "vscode-neovim",
     "publisher": "asvetliakov",
-    "sha256": "sha256-x8amgtsyWMtlV4lHgr0rfBAYzVMpQGzyBqMVTV8hs60=",
-    "version": "1.18.23"
+    "sha256": "sha256-oqsqcB2i8zS2pBElTFHh/diffTLFE9IRDjcQv/IcMgU=",
+    "version": "1.18.24"
   },
   {
     "name": "explorer",
     "publisher": "vitest",
-    "sha256": "sha256-cAcWmGdRci/6vINWVry958aElSxxwsIkzH15DOHTfAM=",
-    "version": "1.26.4"
+    "sha256": "sha256-tHOQBCcVzuFPrUopHNc5VOQWlJjUDG8lem9YZLZramg=",
+    "version": "1.28.0"
   },
   {
     "name": "vscode-postcss",
