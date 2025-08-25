@@ -232,5 +232,29 @@
     "publisher": "amandeepmittal",
     "sha256": "sha256-hHMMK4WH0LMflcUJ5D1hU/BZZjMWBkTK0Su+HLuVgQA=",
     "version": "1.0.1"
+  },
+  {
+    "name": "python",
+    "publisher": "ms-python",
+    "sha256": "sha256-6L6DUwBCgUrjnelMrPc6ZGSEmhFSLA1iCtGBULSE0wA=",
+    "version": "2025.13.2025082101"
+  },
+  {
+    "name": "vscode-pylance",
+    "publisher": "ms-python",
+    "sha256": "sha256-Gd8p/XfRpURdwUHfnqlzWsimZfr7ClWDhg1Hqwlrlas=",
+    "version": "2025.7.102"
+  },
+  {
+    "name": "vscode-pylance",
+    "publisher": "ms-python",
+    "sha256": "sha256-Gd8p/XfRpURdwUHfnqlzWsimZfr7ClWDhg1Hqwlrlas=",
+    "version": "2025.7.102"
+  },
+  {
+    "name": "vsc-python-indent",
+    "publisher": "KevinRose",
+    "sha256": "sha256-SvJhVG8sofzV0PebZG4IIORX3AcfmErDQ00tRF9fk/4=",
+    "version": "1.21.0"
   }
 ]

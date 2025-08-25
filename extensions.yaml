@@ -76,3 +76,11 @@
   publisher: statelyai
 - name: pug
   publisher: amandeepmittal
+- name: python
+  publisher: ms-python
+- name: vscode-pylance
+  publisher: ms-python
+- name: vscode-pylance
+  publisher: ms-python
+- name: vsc-python-indent
+  publisher: KevinRose
