@@ -78,7 +78,7 @@
   publisher: amandeepmittal
 - name: python
   publisher: ms-python
-- name: vscode-pylance
+- name: vscode-python-envs
   publisher: ms-python
 - name: vscode-pylance
   publisher: ms-python
