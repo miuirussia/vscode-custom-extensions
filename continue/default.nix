@@ -2,9 +2,9 @@
 
 pkgs.vscode-utils.buildVscodeMarketplaceExtension rec {
   vsix = builtins.fetchurl {
-    name = "continue-1.1.67.zip";
-    url = "https://github.com/miuirussia/vscode-custom-extensions/releases/download/assets-r1/continue-1.1.67.vsix";
-    sha256 = "0yrzn66c32wscnx9drb5fbp2jx8nysgcykgkvjkfisxxymwg87fm";
+    name = "continue-1.3.2.zip";
+    url = "https://github.com/miuirussia/continue/releases/download/v1.3.2/continue-linux-x64-1.3.2.vsix";
+    sha256 = "4500e666c9b954d29ce6ba46207d5025a3d59381761d120a8ad86c1cb39718b3";
   };
 
   nativeBuildInputs = with pkgs; [
@@ -17,6 +17,6 @@ pkgs.vscode-utils.buildVscodeMarketplaceExtension rec {
   mktplcRef = {
     publisher = "Continue";
     name = "continue";
-    version = "1.1.67";
+    version = "1.3.2";
   };
 }
