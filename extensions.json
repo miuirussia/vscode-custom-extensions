@@ -236,8 +236,8 @@
   {
     "name": "python",
     "publisher": "ms-python",
-    "sha256": "sha256-61RkChP3W066LkPcj+yTOlpFN7HIg21PUSlxChDlnM4=",
-    "version": "2025.13.2025090101"
+    "sha256": "sha256-Sq/XYi72oDjcGenoswtLuwzsIDwauxueo8HhuPvwWVU=",
+    "version": "2025.13.2025090201"
   },
   {
     "name": "debugpy",
@@ -248,8 +248,8 @@
   {
     "name": "vscode-python-envs",
     "publisher": "ms-python",
-    "sha256": "sha256-AOtZAPEK7/O2VXCpU0vZ4tjC0+d1DuylHVazAXOFa6Y=",
-    "version": "1.5.12441010"
+    "sha256": "sha256-E8liJW6YnAGiIE3wTLPYhsBqItIWCQvm5EAtAczsHsA=",
+    "version": "1.7.12451009"
   },
   {
     "name": "vscode-pylance",
