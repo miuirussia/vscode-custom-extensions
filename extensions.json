@@ -236,20 +236,20 @@
   {
     "name": "python",
     "publisher": "ms-python",
-    "sha256": "sha256-oxCL1cc6unUW+d0wN4l762oD4DybJFwZxnMPydsphuk=",
+    "sha256": "sha256-Sq/XYi72oDjcGenoswtLuwzsIDwauxueo8HhuPvwWVU=",
     "version": "2025.13.2025090201"
   },
   {
     "name": "debugpy",
     "publisher": "ms-python",
-    "sha256": "sha256-2wdMaI6SY1eDJzDjFxS23FcKxmFxN1i+zVhVixXJTYI=",
-    "version": "2025.11.2025072901"
+    "sha256": "sha256-F7sDWthMEbRkvH6ulk3FXTuFLWTGpezzdDDcqDvRja4=",
+    "version": "2025.13.2025090502"
   },
   {
     "name": "vscode-python-envs",
     "publisher": "ms-python",
-    "sha256": "sha256-TDAUWFWdPJ+kba6CBCBT6LkYNVBVMsDDtbPsi6mJARw=",
-    "version": "1.7.12461529"
+    "sha256": "sha256-IXSizYRs+l0q0icPZlExBXhoiftKGQFVpoWRiZZ/W5o=",
+    "version": "1.7.12481902"
   },
   {
     "name": "vscode-pylance",
