@@ -248,8 +248,8 @@
   {
     "name": "vscode-python-envs",
     "publisher": "ms-python",
-    "sha256": "sha256-bq2lmMoOwEm7In54Aioyo83jjl3zCSgtEUp6ZN1tNAg=",
-    "version": "1.7.12490429"
+    "sha256": "sha256-ArMR4R6f5jE8GBUQopkSwNaAC62yQeWRdeqsZuhB/Pg=",
+    "version": "1.7.12521601"
   },
   {
     "name": "vscode-pylance",
