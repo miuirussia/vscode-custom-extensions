@@ -110,8 +110,8 @@
   {
     "name": "gitblame",
     "publisher": "waderyan",
-    "sha256": "sha256-rKFqv3GIGxnybyk8z1QYzUbncuiwrjiw0h7Mf2gbfQE=",
-    "version": "11.1.4"
+    "sha256": "sha256-NEsw5Z0k6AYpDcz6pVl2p0Zayd4qC1VODlcaVEOVoHg=",
+    "version": "11.2.0"
   },
   {
     "name": "ayu",
