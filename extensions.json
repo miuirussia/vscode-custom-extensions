@@ -254,8 +254,8 @@
   {
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "sha256": "sha256-s2tOj3MZJW0UI0u17/jJXUxEb9nrvNfe9Gjwr5p38S8=",
-    "version": "2025.8.1"
+    "sha256": "sha256-Z2R7gUZw1S2iL3KX/3fB326lFzE39v9LGq17Ec2aHCA=",
+    "version": "2025.8.2"
   },
   {
     "name": "vsc-python-indent",
