@@ -236,8 +236,8 @@
   {
     "name": "python",
     "publisher": "ms-python",
-    "sha256": "sha256-yOCjbeeOV0j9TsRCo7i7ix4hxeLAzjZmhTMl/eGuIYc=",
-    "version": "2025.15.2025091201"
+    "sha256": "sha256-PH2XX5dBtn3nVUDQ5Pg+DpVu3/TKM1+FiJyAq4jy00A=",
+    "version": "2025.15.2025091901"
   },
   {
     "name": "debugpy",
