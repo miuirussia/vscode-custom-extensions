@@ -200,8 +200,8 @@
   {
     "name": "volar",
     "publisher": "Vue",
-    "sha256": "sha256-ZzNsoYfDVDIBEByZZcn1IAV7WijF/w6CEqZdS6qu/zk=",
-    "version": "3.0.8"
+    "sha256": "sha256-C28vv1tNAfDpGGtJFp9Y7CbzHntah4FFDo6vaSnDpJg=",
+    "version": "3.1.0"
   },
   {
     "name": "vscode-github-actions",
