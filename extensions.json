@@ -50,8 +50,8 @@
   {
     "name": "nix-ide",
     "publisher": "jnoortheen",
-    "sha256": "sha256-MnuFMrP52CcWZTyf2OKSqQ/oqCS3PPivwEIja25N2D0=",
-    "version": "0.4.23"
+    "sha256": "sha256-xtMXd8GVHygl9+9X+QamI5YXXSlvEWOoYKf3OWmIoHw=",
+    "version": "0.4.24"
   },
   {
     "name": "ide-purescript",
@@ -248,14 +248,14 @@
   {
     "name": "vscode-python-envs",
     "publisher": "ms-python",
-    "sha256": "sha256-qhWH9uSj8XZUMFCYB6QiR4aGYla3ZiifepWZfnRirTg=",
-    "version": "1.9.12661010"
+    "sha256": "sha256-nqFCw496aeuc/Pt3RGwBLzQLWtw37qVHaxal1eUeXlg=",
+    "version": "1.9.12721009"
   },
   {
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "sha256": "sha256-Z2R7gUZw1S2iL3KX/3fB326lFzE39v9LGq17Ec2aHCA=",
-    "version": "2025.8.2"
+    "sha256": "sha256-+IyB1tCBWjKZzN9yydOiyv3SUIKqfkbGTOsbjoDjlKo=",
+    "version": "2025.8.3"
   },
   {
     "name": "vsc-python-indent",
