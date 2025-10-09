@@ -164,8 +164,8 @@
   {
     "name": "vscode-tailwindcss",
     "publisher": "bradlc",
-    "sha256": "sha256-3OcEKPdwRispdS1Jz3ldbJ15GAvsq975lLjOHMKVgPo=",
-    "version": "0.14.27"
+    "sha256": "sha256-xq12b0i0TsYZ5XxF1t9c2YrV7wAROjEjdLgBg3ZaLi0=",
+    "version": "0.14.28"
   },
   {
     "name": "prettier-vscode",
