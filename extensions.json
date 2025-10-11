@@ -50,8 +50,8 @@
   {
     "name": "nix-ide",
     "publisher": "jnoortheen",
-    "sha256": "sha256-xtMXd8GVHygl9+9X+QamI5YXXSlvEWOoYKf3OWmIoHw=",
-    "version": "0.4.24"
+    "sha256": "sha256-jVuGQzMspbMojYq+af5fmuiaS3l3moG8L8Kyf40vots=",
+    "version": "0.5.0"
   },
   {
     "name": "ide-purescript",
@@ -242,8 +242,8 @@
   {
     "name": "debugpy",
     "publisher": "ms-python",
-    "sha256": "sha256-FvZb8caR2S3vgulcbFtCANs4SM3Ia5MXs8dFNndBMKs=",
-    "version": "2025.15.2025100201"
+    "sha256": "sha256-M2G1CviSdwex7DX6ug8yN2aVgVGPy+eSmS5sOjFOSPQ=",
+    "version": "2025.15.2025101002"
   },
   {
     "name": "vscode-python-envs",
