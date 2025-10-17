@@ -140,8 +140,8 @@
   {
     "name": "pretty-ts-errors",
     "publisher": "yoavbls",
-    "sha256": "sha256-LvX21nEjgayNd9q+uXkahmdYwzfWBZOhQaF+clFUUF4=",
-    "version": "0.6.1"
+    "sha256": "sha256-7yoNuYg31hbtU4HATG4VAERcMk5KPRA3WLouSJo3rxs=",
+    "version": "0.6.3"
   },
   {
     "name": "viml",
