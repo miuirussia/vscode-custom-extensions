@@ -80,8 +80,8 @@
   {
     "name": "vscode-thunder-client",
     "publisher": "rangav",
-    "sha256": "sha256-QmiHITKPF69/uXt5J6m9kgMhwa03E5SZlcy8sTjnNo0=",
-    "version": "2.37.8"
+    "sha256": "sha256-aKVEdxFoyFvU2sJwM/qyorV23VijT0v5RCJqFmsvZZ8=",
+    "version": "2.38.0"
   },
   {
     "name": "hadolint",
@@ -236,8 +236,8 @@
   {
     "name": "python",
     "publisher": "ms-python",
-    "sha256": "sha256-du0XHHtARbmnYb7MdMJMfuPcXKhEEg3xLZ6nberNz7U=",
-    "version": "2025.17.2025100201"
+    "sha256": "sha256-aINQvrSNs/CvsdI3hxdkFX9UAuOpFV1Bakj4lYevub0=",
+    "version": "2025.17.2025101701"
   },
   {
     "name": "debugpy",
