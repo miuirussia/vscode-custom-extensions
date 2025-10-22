@@ -80,8 +80,8 @@
   {
     "name": "vscode-thunder-client",
     "publisher": "rangav",
-    "sha256": "sha256-kyJvBj4y74ojFyLmyDl9vWK3xJs8so+GKDBqvENYkcA=",
-    "version": "2.38.1"
+    "sha256": "sha256-oBzCu5xn5ehRWjy4ba/RYKbuKftG6j0yJsjS/sTSS7g=",
+    "version": "2.38.2"
   },
   {
     "name": "hadolint",
@@ -218,8 +218,8 @@
   {
     "name": "vscode-custom-css",
     "publisher": "be5invis",
-    "sha256": "sha256-Vq+GG72T4eDEOyppuBaBqwuNQ1yf3T0uuLpZb7mQhOk=",
-    "version": "7.4.7"
+    "sha256": "sha256-6oLxGAvrtI69ZMnKmV/wU8jbKPgs4RgQ9KL1FgQER0Q=",
+    "version": "7.5.0"
   },
   {
     "name": "stately-vscode",
