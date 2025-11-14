@@ -122,8 +122,8 @@
   {
     "name": "vscode-eslint",
     "publisher": "dbaeumer",
-    "sha256": "sha256-rpYgvo5H1RBviV5L/pfDWqVXIYaZonRiqh4TLFGEODw=",
-    "version": "3.0.19"
+    "sha256": "sha256-Ip9q7BroIVNsxbO/OcZuJWagYsYtV2xJhe0z0NFiR2U=",
+    "version": "3.0.21"
   },
   {
     "name": "todo-tree",
@@ -236,8 +236,8 @@
   {
     "name": "python",
     "publisher": "ms-python",
-    "sha256": "sha256-O33xIOCDoimQgWhtW2g9X5ZU91LNrbBKPy9+vuziIJc=",
-    "version": "2025.18.0"
+    "sha256": "sha256-Epauzc7oSTAOqPJfANPYByYeIZ3IKnS+1RUYYE29X2Q=",
+    "version": "2025.19.2025111301"
   },
   {
     "name": "debugpy",
@@ -248,8 +248,8 @@
   {
     "name": "vscode-python-envs",
     "publisher": "ms-python",
-    "sha256": "sha256-5hzLRxIwMD75n+y/FlGWZk2NwgQqNlrORyHPrXvdUCw=",
-    "version": "1.12.0"
+    "sha256": "sha256-2TcvyWJn4Iuq9E7gb95gWtyLSgG6RuaPwwbh0vuRXX0=",
+    "version": "1.13.13171014"
   },
   {
     "name": "vscode-pylance",
