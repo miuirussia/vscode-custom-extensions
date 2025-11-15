@@ -236,7 +236,7 @@
   {
     "name": "python",
     "publisher": "ms-python",
-    "sha256": "sha256-Epauzc7oSTAOqPJfANPYByYeIZ3IKnS+1RUYYE29X2Q=",
+    "sha256": "sha256-ezb5TMr5sfXov1RtqAHw5dg8EUz310CmnvOzbAIFQNU=",
     "version": "2025.19.2025111301"
   },
   {
@@ -254,8 +254,8 @@
   {
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "sha256": "sha256-9n29TXgAEUxET5YR8IMnyJ+nSzYKIcVqJVaJCS6D/UI=",
-    "version": "2025.9.100"
+    "sha256": "sha256-n44wwl5UK5ObXF647T/HDo/wmmpmFdVySnGjbmLj9YI=",
+    "version": "2025.9.101"
   },
   {
     "name": "vsc-python-indent",
