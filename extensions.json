@@ -74,14 +74,14 @@
   {
     "name": "shellcheck",
     "publisher": "timonwong",
-    "sha256": "sha256-3hl/vu2ts3oIVh/8w1sm32MshqIOK66TYa5ZFv2rYFk=",
-    "version": "0.38.4"
+    "sha256": "sha256-5NtCbZApXY7qsdWVCZ/3Jwrf5tKIN/IoceFeQbUi2Fg=",
+    "version": "0.38.5"
   },
   {
     "name": "vscode-thunder-client",
     "publisher": "rangav",
-    "sha256": "sha256-Eg10vZTq76LmXpUwzGcLGRFzT9RKZvlhJvhf8lA0u5c=",
-    "version": "2.38.4"
+    "sha256": "sha256-e4kJVvMYsQFWxkTFkcVGr55ZGuSCjEb/9UjNN84lAkI=",
+    "version": "2.38.5"
   },
   {
     "name": "hadolint",
@@ -236,8 +236,8 @@
   {
     "name": "python",
     "publisher": "ms-python",
-    "sha256": "sha256-ade3s1wp0Q5deQll5SRV3inNdR95dWYTJrc1asbnMM0=",
-    "version": "2025.19.2025111701"
+    "sha256": "sha256-IaOOgyes+R/IAHuCE68/dI8lq7ZanjDOFvUAHnOIJGA=",
+    "version": "2025.19.2025111801"
   },
   {
     "name": "debugpy",
@@ -248,14 +248,14 @@
   {
     "name": "vscode-python-envs",
     "publisher": "ms-python",
-    "sha256": "sha256-P4f3KeZFzVpaWhr1bB8LttlE1RJEuY9Q08bifhsXJME=",
-    "version": "1.13.13211012"
+    "sha256": "sha256-IzzQPiqNNor62BCeEdl1WgDA3JfPXrSzJN0SjkmUlco=",
+    "version": "1.13.13221018"
   },
   {
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "sha256": "sha256-n44wwl5UK5ObXF647T/HDo/wmmpmFdVySnGjbmLj9YI=",
-    "version": "2025.9.101"
+    "sha256": "sha256-+6gjj0ALKTGA08lopXzhe7+TuU+jqcVlg6YZLcO4TD8=",
+    "version": "2025.9.102"
   },
   {
     "name": "vsc-python-indent",
