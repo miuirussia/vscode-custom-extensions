@@ -206,8 +206,8 @@
   {
     "name": "vscode-github-actions",
     "publisher": "github",
-    "sha256": "sha256-9DUS1wUeK4vBw/QIqOW8R7T7ho9hmTKuu7gRnM35Ahw=",
-    "version": "0.28.0"
+    "sha256": "sha256-68nmdF19rvWyDQeOhpv7ahlWLBbRSNhvssMyTt7MVl0=",
+    "version": "0.28.1"
   },
   {
     "name": "vscode-github-actions",
@@ -248,7 +248,7 @@
   {
     "name": "vscode-python-envs",
     "publisher": "ms-python",
-    "sha256": "sha256-IzzQPiqNNor62BCeEdl1WgDA3JfPXrSzJN0SjkmUlco=",
+    "sha256": "sha256-58zFSyhNXZb0HWKEmV35okpO3NqB7T1sTqIg2z7V/QQ=",
     "version": "1.13.13221018"
   },
   {
