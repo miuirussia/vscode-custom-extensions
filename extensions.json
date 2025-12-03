@@ -98,8 +98,8 @@
   {
     "name": "explorer",
     "publisher": "vitest",
-    "sha256": "sha256-X8LrXovHWEyoezAA2Gg29s1t6AeoEMf1G/iKsiUrRgA=",
-    "version": "1.34.0"
+    "sha256": "sha256-ic1Gk3jJyyD7WnXjXMymr/5YV2z3tK5VPToWeCkhqyU=",
+    "version": "1.36.0"
   },
   {
     "name": "vscode-postcss",
@@ -254,8 +254,8 @@
   {
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "sha256": "sha256-4oyS5Y/NE9k3xOKzT88CpB5fXoANqIAIl9GhjZWUAsE=",
-    "version": "2025.10.2"
+    "sha256": "sha256-p0aUIHM2KYnUbT9C3Ig1lbx+L1vUj8tMJJ0Fgl88/Hk=",
+    "version": "2025.10.3"
   },
   {
     "name": "vsc-python-indent",
