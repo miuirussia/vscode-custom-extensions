@@ -170,8 +170,8 @@
   {
     "name": "prettier-vscode",
     "publisher": "esbenp",
-    "sha256": "sha256-k+Hien0huGIn0XRQQSeW6wmd1HTTTfNZPnw36ryGLd8=",
-    "version": "11.0.1"
+    "sha256": "sha256-PwP49p1gpxfx3AmGFhNvRBBc4SxWM2b9aaiUG/C+Uhg=",
+    "version": "11.0.2"
   },
   {
     "name": "vscode-twoslash-queries",
@@ -248,8 +248,8 @@
   {
     "name": "vscode-python-envs",
     "publisher": "ms-python",
-    "sha256": "sha256-mAsXd9MlYv87nv35DdjuI6NiPmL7Gu1WweTglSvul+o=",
-    "version": "1.13.13351017"
+    "sha256": "sha256-W20Dm73jWv4WB9nIBZENJE9itUK465998RBvAIca9y4=",
+    "version": "1.13.13371706"
   },
   {
     "name": "vscode-pylance",
