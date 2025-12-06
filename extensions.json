@@ -200,8 +200,8 @@
   {
     "name": "volar",
     "publisher": "Vue",
-    "sha256": "sha256-J3NXUMcDhIXGkH2plekFyj7kbOf2/+xX8sh8J5Booo4=",
-    "version": "3.1.5"
+    "sha256": "sha256-bX9fwmKm3+PJlR2o8iJnyLsA6lz8ct857GyFTXOUP+k=",
+    "version": "3.1.6"
   },
   {
     "name": "vscode-github-actions",
@@ -236,7 +236,7 @@
   {
     "name": "python",
     "publisher": "ms-python",
-    "sha256": "sha256-9dqC8t9udQ2JW73Ygp7vSb/2g3dbrkEuNNpaEFLFFXA=",
+    "sha256": "sha256-7jYHVFJyXUiZoEf99WliCPXZoRY6MEa+hDLUQ0T0jvc=",
     "version": "2025.19.2025120401"
   },
   {
@@ -254,8 +254,8 @@
   {
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "sha256": "sha256-p0aUIHM2KYnUbT9C3Ig1lbx+L1vUj8tMJJ0Fgl88/Hk=",
-    "version": "2025.10.3"
+    "sha256": "sha256-549EWfJTV/MSuExilOUcxE/wA0j5YBHxEKhww+H5sGw=",
+    "version": "2025.10.4"
   },
   {
     "name": "vsc-python-indent",
