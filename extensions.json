@@ -236,14 +236,14 @@
   {
     "name": "python",
     "publisher": "ms-python",
-    "sha256": "sha256-lGPTgyA9dqGRFPLrLmXBFTpozxbUD9ZdzvBjo4Lio2A=",
-    "version": "2025.21.2025121501"
+    "sha256": "sha256-4lJxuYZ5qhjRg/HG0x+o4aXCsPT3nMadEa8t6AHYRxs=",
+    "version": "2025.21.2025121601"
   },
   {
     "name": "debugpy",
     "publisher": "ms-python",
-    "sha256": "sha256-5V8YXNjQ+xWpSpcFcTRPECaggderGqfGP5fJQATDYo8=",
-    "version": "2025.17.2025121501"
+    "sha256": "sha256-UegvlhgIjbwv9SgZIdtzX8FDOL9qjBLOFm0jaTexNrQ=",
+    "version": "2025.18.0"
   },
   {
     "name": "vscode-python-envs",
