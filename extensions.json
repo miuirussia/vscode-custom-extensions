@@ -116,8 +116,8 @@
   {
     "name": "ayu",
     "publisher": "teabyii",
-    "sha256": "sha256-+IFqgWliKr+qjBLmQlzF44XNbN7Br5a119v9WAnZOu4=",
-    "version": "1.0.5"
+    "sha256": "sha256-yHHzl1tiYJ+oDwcyrRqyF5A4XHnm//lJLfpGnrnh/YQ=",
+    "version": "1.1.2"
   },
   {
     "name": "vscode-eslint",
@@ -140,8 +140,8 @@
   {
     "name": "pretty-ts-errors",
     "publisher": "yoavbls",
-    "sha256": "sha256-7yoNuYg31hbtU4HATG4VAERcMk5KPRA3WLouSJo3rxs=",
-    "version": "0.6.3"
+    "sha256": "sha256-+PKxy1YN8ZP0hstb7PXZH+5L4n2l/j5J9/ordS2cBYM=",
+    "version": "0.7.0"
   },
   {
     "name": "viml",
