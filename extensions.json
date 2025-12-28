@@ -50,8 +50,8 @@
   {
     "name": "nix-ide",
     "publisher": "jnoortheen",
-    "sha256": "sha256-jVuGQzMspbMojYq+af5fmuiaS3l3moG8L8Kyf40vots=",
-    "version": "0.5.0"
+    "sha256": "sha256-epdEMPAkSo0IXsd+ozicI8bjPPquDKIzB3ONRUYWwn8=",
+    "version": "0.5.5"
   },
   {
     "name": "ide-purescript",
@@ -116,8 +116,8 @@
   {
     "name": "ayu",
     "publisher": "teabyii",
-    "sha256": "sha256-L3+8rKMKcYKpwLNQmdXf3PZT1zJSravf+kMY/tbs+wY=",
-    "version": "1.1.5"
+    "sha256": "sha256-jC9y/a3kYbBlYYOUIuRIb7g9FQ2j4Z4X+hqmU0TA3kY=",
+    "version": "1.1.6"
   },
   {
     "name": "vscode-eslint",
@@ -248,7 +248,7 @@
   {
     "name": "vscode-python-envs",
     "publisher": "ms-python",
-    "sha256": "sha256-+Tm5SQKGtcQzEhKz2Ywn0tzb0fWeC7qPA4pzoqX90B8=",
+    "sha256": "sha256-j+/rL/YSlITDdOzBpG3Lv1EsN+3sYq4ZmNLOucrDMWo=",
     "version": "1.15.13521015"
   },
   {
