@@ -200,14 +200,14 @@
   {
     "name": "volar",
     "publisher": "Vue",
-    "sha256": "sha256-GQq/QVBQmQmOUw0GMPDhAYK4XhYj/ZutRAEnrXZCAcI=",
-    "version": "3.2.1"
+    "sha256": "sha256-BbUbX9XyrVM65F+5ZNSAfDxVOga0WnQFUBP1Pf4eXHw=",
+    "version": "3.2.2"
   },
   {
     "name": "vscode-github-actions",
     "publisher": "github",
-    "sha256": "sha256-+Ep6TopUyV2CjPSDCWrx7T2RCqC+oLzG383/MY4GfUM=",
-    "version": "0.29.0"
+    "sha256": "sha256-N08jRcz5CAyTrA6tCb/aekg+EzoWqMzlZweSmQ+qj80=",
+    "version": "0.29.1"
   },
   {
     "name": "vscode-github-actions",
@@ -236,8 +236,8 @@
   {
     "name": "python",
     "publisher": "ms-python",
-    "sha256": "sha256-8ZOpQiEPrBTHiXjXbSfuWfR6L0cS0sWOUo9R8zgckY4=",
-    "version": "2025.21.2025121801"
+    "sha256": "sha256-dKPi78MLmqZJOy6Bnc7aADwpBug3HnE/+TgWFxNp2Tg=",
+    "version": "2025.21.2026010501"
   },
   {
     "name": "debugpy",
