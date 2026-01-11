@@ -176,8 +176,8 @@
   {
     "name": "vscode-twoslash-queries",
     "publisher": "Orta",
-    "sha256": "sha256-4D4ky3DSmepJ+z5KSvaIjNRegnG/ZTfOF4Tc0Q/FZxc=",
-    "version": "1.5.0"
+    "sha256": "sha256-ClbVO/OthZnUkSIrg9kyX95Ei7ru8iCp4fgwN+mcyFQ=",
+    "version": "1.5.1"
   },
   {
     "name": "playwright",
