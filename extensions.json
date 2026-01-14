@@ -248,14 +248,14 @@
   {
     "name": "vscode-python-envs",
     "publisher": "ms-python",
-    "sha256": "sha256-cvnWQJ8NWeW6wHDHYHLpbp4ZV9qgrg7PKWiz5iNIaqg=",
-    "version": "1.17.10091014"
+    "sha256": "sha256-nN0arczGaQkdNAQsg2PuO2+69oHWVe0EXoyP/gpbKvM=",
+    "version": "1.17.10131015"
   },
   {
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "sha256": "sha256-XOuI0WPYV3Nnvst7keizPHUnQfa3P+WULttoHb3ZRVI=",
-    "version": "2025.10.100"
+    "sha256": "sha256-rkNObL0L9fwrqO+ZDF+0N8j51Jl9U/HDy7jTGgf37A8=",
+    "version": "2025.12.100"
   },
   {
     "name": "vsc-python-indent",
