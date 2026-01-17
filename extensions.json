@@ -170,8 +170,8 @@
   {
     "name": "prettier-vscode",
     "publisher": "esbenp",
-    "sha256": "sha256-PwP49p1gpxfx3AmGFhNvRBBc4SxWM2b9aaiUG/C+Uhg=",
-    "version": "11.0.2"
+    "sha256": "sha256-UnmFtcUznmZVoqVc+vKPx/PCzheefj+LjIsYXgjjJyo=",
+    "version": "12.1.0"
   },
   {
     "name": "vscode-twoslash-queries",
