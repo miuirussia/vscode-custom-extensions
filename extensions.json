@@ -236,7 +236,7 @@
   {
     "name": "python",
     "publisher": "ms-python",
-    "sha256": "sha256-1YGYWL/jnesFPdD12SFXFEYvJvo/dU0k8bq5a2Sq+ZQ=",
+    "sha256": "sha256-n9VxdnpBwjRjzHZu0E2lGHD/+gqCKiJZekksb1yT9kg=",
     "version": "2026.1.2026011501"
   },
   {
@@ -248,7 +248,7 @@
   {
     "name": "vscode-python-envs",
     "publisher": "ms-python",
-    "sha256": "sha256-+kWqg+pi8NUJbwHZWXHqVLl+H4Hum2XjhAR9ls0TlHU=",
+    "sha256": "sha256-nfALRkhC36SlCaB7yYNFOOJKDUbDltUcOVmEDWlyj4k=",
     "version": "1.17.10151017"
   },
   {
