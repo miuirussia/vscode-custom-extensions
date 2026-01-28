@@ -242,8 +242,8 @@
   {
     "name": "debugpy",
     "publisher": "ms-python",
-    "sha256": "sha256-0xR3weubN1URJboAGcmhKf2hPlKu7pC1mnzlvZYmxPY=",
-    "version": "2025.19.2026012601"
+    "sha256": "sha256-QLqbONuBulPPphEzvtRwy1quvSD5cU+QEWHI1a65J5g=",
+    "version": "2025.19.2026012701"
   },
   {
     "name": "vscode-python-envs",
