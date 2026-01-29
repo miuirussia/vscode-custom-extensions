@@ -206,8 +206,8 @@
   {
     "name": "vscode-github-actions",
     "publisher": "github",
-    "sha256": "sha256-IlFwJ1Cp4y4AuldWOyDtZsoTGvilbYhEGP8BNfN1iR4=",
-    "version": "0.30.0"
+    "sha256": "sha256-KOvmFmAdvpx9S1Ri71tzv15eSP+R1xO/C6vWEUwdB8g=",
+    "version": "0.30.1"
   },
   {
     "name": "vscode-github-actions",
@@ -236,8 +236,8 @@
   {
     "name": "python",
     "publisher": "ms-python",
-    "sha256": "sha256-srSiiLu2Ie0M9CJOCw0fz6faSJNRVGSSjknX/7FiwWk=",
-    "version": "2026.1.2026012301"
+    "sha256": "sha256-xCMeiGcV7eK6sjD9Hh1PBoIqhoMAvE+S0fwh5M5QmWs=",
+    "version": "2026.1.2026012801"
   },
   {
     "name": "debugpy",
@@ -254,8 +254,8 @@
   {
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "sha256": "sha256-s1YBgWrsorAxotNRBR4dgtmLJekTpQO2gzYPQMIxYT8=",
-    "version": "2025.12.101"
+    "sha256": "sha256-rNyKrO11pIAKA+PUnTs9vy0XpwaNdzCqk77nkT6pvZM=",
+    "version": "2025.12.102"
   },
   {
     "name": "vsc-python-indent",
