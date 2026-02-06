@@ -98,8 +98,8 @@
   {
     "name": "explorer",
     "publisher": "vitest",
-    "sha256": "sha256-pcJgVYXGpkK2SGGvEF9aiRmk3kKte321qP/17awo5MU=",
-    "version": "1.38.1"
+    "sha256": "sha256-+w6mxSsajjmmzJvfG9Z0uyUOkJOmxrWUvCDvZXGOx20=",
+    "version": "1.42.0"
   },
   {
     "name": "vscode-postcss",
@@ -248,8 +248,8 @@
   {
     "name": "vscode-python-envs",
     "publisher": "ms-python",
-    "sha256": "sha256-ONB5mSyTg42kKAJhkS4ysLMw9Y+Ifr8tXKeKMsXcb8g=",
-    "version": "1.17.10341642"
+    "sha256": "sha256-SEDN8ly2WPJOKau24466YDdUFAZmz51+LcAebdR7ZNk=",
+    "version": "1.17.10361920"
   },
   {
     "name": "vscode-pylance",
