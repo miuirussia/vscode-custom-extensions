@@ -116,8 +116,8 @@
   {
     "name": "ayu",
     "publisher": "teabyii",
-    "sha256": "sha256-b83c4/63XHNmjUMrPCgpBhn2XA2tBcfPh5izfNS45gI=",
-    "version": "1.1.7"
+    "sha256": "sha256-md6G6Zf9E8oVyBvDQZfu9jTO6ZseNM+xJ/kx9efkuHA=",
+    "version": "1.1.8"
   },
   {
     "name": "vscode-eslint",
@@ -248,8 +248,8 @@
   {
     "name": "vscode-python-envs",
     "publisher": "ms-python",
-    "sha256": "sha256-LIDRPAz64w9PxBsNkd9v2++lDbid8z8PnNtorVbdYDw=",
-    "version": "1.17.10371020"
+    "sha256": "sha256-is4m+lhSemWnIn0VeDUI2kOTSpZwfvus2Ed9RlkaEu4=",
+    "version": "1.17.10382311"
   },
   {
     "name": "vscode-pylance",
