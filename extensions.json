@@ -80,8 +80,8 @@
   {
     "name": "vscode-thunder-client",
     "publisher": "rangav",
-    "sha256": "sha256-QBXonzqGW/ew6mVqJiVG8S0S8I4R42AqObuEoF3ee0U=",
-    "version": "2.39.2"
+    "sha256": "sha256-jFPyauGtW4DhTsIWMo0764hhUE2LR1C2W3+Dpz+Pkt0=",
+    "version": "2.39.3"
   },
   {
     "name": "hadolint",
@@ -248,8 +248,8 @@
   {
     "name": "vscode-python-envs",
     "publisher": "ms-python",
-    "sha256": "sha256-RbiZGSLLLBwnJ7Oh5N7+UVrg4eokp9gZjG8Z4iVxS/Q=",
-    "version": "1.19.10421910"
+    "sha256": "sha256-5d73JyhXR3/wqF6rAdRJVc4nXTSEQR3Ct1AWdpVeCJo=",
+    "version": "1.19.10431015"
   },
   {
     "name": "vscode-pylance",
