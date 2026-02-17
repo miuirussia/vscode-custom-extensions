@@ -80,8 +80,8 @@
   {
     "name": "vscode-thunder-client",
     "publisher": "rangav",
-    "sha256": "sha256-c8UxN9LAS37EYY/oHi2kLD5XO//Jdd7VpAMscG9XT3E=",
-    "version": "2.39.4"
+    "sha256": "sha256-LXgUsK1yiKEeokIPBzONrMV0gpA/SYIdAI4c2whkZik=",
+    "version": "2.39.5"
   },
   {
     "name": "hadolint",
@@ -242,14 +242,14 @@
   {
     "name": "debugpy",
     "publisher": "ms-python",
-    "sha256": "sha256-QLqbONuBulPPphEzvtRwy1quvSD5cU+QEWHI1a65J5g=",
-    "version": "2025.19.2026012701"
+    "sha256": "sha256-3RbCxieJUj2Pjb4ce4J2NbDxz7FS6kX7U8xibD+U8VM=",
+    "version": "2025.19.2026021601"
   },
   {
     "name": "vscode-python-envs",
     "publisher": "ms-python",
-    "sha256": "sha256-HdfpIsXT8QmboXbdHlzDCCNhjtpVHNEdV7rc7vDsGdM=",
-    "version": "1.19.10441014"
+    "sha256": "sha256-x60jmshkB9Zc6hrmWr+ct6l6PwY7fTGxmMFcxqdFh5c=",
+    "version": "1.19.10471016"
   },
   {
     "name": "vscode-pylance",
