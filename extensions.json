@@ -8,8 +8,8 @@
   {
     "name": "flow-for-vscode",
     "publisher": "flowtype",
-    "sha256": "sha256-7jaZzUkSFlgiTDbud2C0vxRwSK82I6nQUKJNhP0sIUc=",
-    "version": "3.1.1"
+    "sha256": "sha256-7uyc8ZlyXzzo1zbIIEh4DPce9ySbRVI/qC3jTivOvaA=",
+    "version": "3.1.2"
   },
   {
     "name": "Nix",
@@ -80,8 +80,8 @@
   {
     "name": "vscode-thunder-client",
     "publisher": "rangav",
-    "sha256": "sha256-LXgUsK1yiKEeokIPBzONrMV0gpA/SYIdAI4c2whkZik=",
-    "version": "2.39.5"
+    "sha256": "sha256-Kh4fzqroSoj8ZwfaIN/ssLGo1twVa1m+bAosld5GTy8=",
+    "version": "2.39.6"
   },
   {
     "name": "hadolint",
@@ -236,8 +236,8 @@
   {
     "name": "python",
     "publisher": "ms-python",
-    "sha256": "sha256-yMPVzBnjJfCKGo/PzUVg2Tpd2gwu3LsfRBecjSdoOKA=",
-    "version": "2026.1.2026021101"
+    "sha256": "sha256-rtMLP12f0THRcmcN0eXxy1VZR6g2M7ey8eH9jC0PdeI=",
+    "version": "2026.2.0"
   },
   {
     "name": "debugpy",
@@ -248,8 +248,8 @@
   {
     "name": "vscode-python-envs",
     "publisher": "ms-python",
-    "sha256": "sha256-x60jmshkB9Zc6hrmWr+ct6l6PwY7fTGxmMFcxqdFh5c=",
-    "version": "1.19.10471016"
+    "sha256": "sha256-g/1dK+CYuX69sxsV/CL1gnquow10gG7evazL3sY8Jk0=",
+    "version": "1.20.0"
   },
   {
     "name": "vscode-pylance",
