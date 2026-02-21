@@ -74,14 +74,14 @@
   {
     "name": "shellcheck",
     "publisher": "timonwong",
-    "sha256": "sha256-tbbNVENg4z0lXh4nH/tKd4fiX+c6HFO733hUZLdJNgw=",
-    "version": "0.38.7"
+    "sha256": "sha256-wbbpMssSBhrKgFQjIrtk0VVyb2nIkqkNMZ/6JLJjXdc=",
+    "version": "0.38.8"
   },
   {
     "name": "vscode-thunder-client",
     "publisher": "rangav",
-    "sha256": "sha256-VEP/3fauHE/MetNXSxXBarfcYlgQ6y68Lk7DTWKObWY=",
-    "version": "2.39.7"
+    "sha256": "sha256-I0jRn42y9056dHEFmOVSHB3XkqMDj1eVQ87QriSajvM=",
+    "version": "2.39.8"
   },
   {
     "name": "hadolint",
