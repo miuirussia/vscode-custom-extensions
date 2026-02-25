@@ -38,8 +38,8 @@
   {
     "name": "haskell",
     "publisher": "haskell",
-    "sha256": "sha256-rkQw8A2irw1AcUCnEffG5BNPuQQF9dfjiRHHXPdK/zU=",
-    "version": "2.7.0"
+    "sha256": "sha256-Tp4Ahfp3Ma9aJtghD+mgsCBTMOP1GI1vGE5xzvHO+d4=",
+    "version": "2.8.0"
   },
   {
     "name": "language-haskell",
@@ -242,14 +242,14 @@
   {
     "name": "debugpy",
     "publisher": "ms-python",
-    "sha256": "sha256-k9qnNuf8Mbo22+0oeBvYDIsZhcG0JAl8GKKaHsPQ/A8=",
-    "version": "2025.19.2026022301"
+    "sha256": "sha256-pUD3lAF+LXTE5s9qSykqvuZJA/yfpndpNg6EBMOm/jk=",
+    "version": "2025.19.2026022401"
   },
   {
     "name": "vscode-python-envs",
     "publisher": "ms-python",
-    "sha256": "sha256-10IX/M1jFM+knHx60GkvONYTJJ1U8y5Q2TiQ4NC+Slk=",
-    "version": "1.21.10501014"
+    "sha256": "sha256-irJpBiOc38bPMIPNR4yU4USVCVTYAR2gjsOY3C4c0wY=",
+    "version": "1.21.10551014"
   },
   {
     "name": "vscode-pylance",
