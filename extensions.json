@@ -74,8 +74,8 @@
   {
     "name": "shellcheck",
     "publisher": "timonwong",
-    "sha256": "sha256-wbbpMssSBhrKgFQjIrtk0VVyb2nIkqkNMZ/6JLJjXdc=",
-    "version": "0.38.8"
+    "sha256": "sha256-vbTqji9fGD1vh2wQwb/TAOyo9KqGAMNu/fmHCRBEtkI=",
+    "version": "0.38.9"
   },
   {
     "name": "vscode-thunder-client",
@@ -248,8 +248,8 @@
   {
     "name": "vscode-python-envs",
     "publisher": "ms-python",
-    "sha256": "sha256-irJpBiOc38bPMIPNR4yU4USVCVTYAR2gjsOY3C4c0wY=",
-    "version": "1.21.10551014"
+    "sha256": "sha256-ZVSmSuNgQovTpbuAUtjTrfloT3t3lOKLx6lAvzFgQQQ=",
+    "version": "1.21.10561015"
   },
   {
     "name": "vscode-pylance",
