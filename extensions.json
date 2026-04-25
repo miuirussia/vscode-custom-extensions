@@ -74,14 +74,14 @@
   {
     "name": "shellcheck",
     "publisher": "timonwong",
-    "sha256": "sha256-vbTqji9fGD1vh2wQwb/TAOyo9KqGAMNu/fmHCRBEtkI=",
-    "version": "0.38.9"
+    "sha256": "sha256-A87dG+bBNCMZ8ERDGpVJIP7lXL8rfRely2Uo/ZMsgVI=",
+    "version": "0.39.3"
   },
   {
     "name": "vscode-thunder-client",
     "publisher": "rangav",
-    "sha256": "sha256-pHshB0DbJwfwEAp7+RyfDkpvANyOcAlLyuXKdM+NNN4=",
-    "version": "2.39.9"
+    "sha256": "sha256-q1hLKZOUT+f+ApdLhKw+5+8fZL8ZercHDASmN4StiOs=",
+    "version": "2.40.12"
   },
   {
     "name": "hadolint",
@@ -98,8 +98,8 @@
   {
     "name": "explorer",
     "publisher": "vitest",
-    "sha256": "sha256-z8JQEWSSLw+EDEfJWrHYy7vT2kAdsFybFcVkl5w5WfM=",
-    "version": "1.44.0"
+    "sha256": "sha256-9AmJa3vMXBx2VC20j7bGyIoascQd7SvvFTgfyBi7SLU=",
+    "version": "1.50.2"
   },
   {
     "name": "vscode-postcss",
@@ -110,20 +110,20 @@
   {
     "name": "gitblame",
     "publisher": "waderyan",
-    "sha256": "sha256-NEsw5Z0k6AYpDcz6pVl2p0Zayd4qC1VODlcaVEOVoHg=",
-    "version": "11.2.0"
+    "sha256": "sha256-N0UgWdwGj3NW4x0Ea+jKL5Jvp0YE+HfK5tkUjmynPuY=",
+    "version": "13.0.1"
   },
   {
     "name": "ayu",
     "publisher": "teabyii",
-    "sha256": "sha256-mxypPqumN9SvgaFLItGmILH7PtRehgnnzkGtG3C07QI=",
-    "version": "1.1.9"
+    "sha256": "sha256-pwLvik3GRMLyr6GeTmZh1MrkgH1MgbyoembNmQxg4I0=",
+    "version": "1.1.12"
   },
   {
     "name": "vscode-eslint",
     "publisher": "dbaeumer",
-    "sha256": "sha256-Ip9q7BroIVNsxbO/OcZuJWagYsYtV2xJhe0z0NFiR2U=",
-    "version": "3.0.21"
+    "sha256": "sha256-ZQVzpSSLf3tpO4QtLjbCOje3L5/EqzT9A9IOssl6e54=",
+    "version": "3.0.24"
   },
   {
     "name": "todo-tree",
@@ -140,8 +140,8 @@
   {
     "name": "pretty-ts-errors",
     "publisher": "yoavbls",
-    "sha256": "sha256-+PKxy1YN8ZP0hstb7PXZH+5L4n2l/j5J9/ordS2cBYM=",
-    "version": "0.7.0"
+    "sha256": "sha256-ofh19dkK+b1+eqr5g4opoLg3a06C/qqC0HVws28jI/A=",
+    "version": "0.8.7"
   },
   {
     "name": "viml",
@@ -170,8 +170,8 @@
   {
     "name": "prettier-vscode",
     "publisher": "esbenp",
-    "sha256": "sha256-Zi5ihki/risHm75ERQxUgqhiTbpM6fknHLMCAkXrEVo=",
-    "version": "12.3.0"
+    "sha256": "sha256-RtIqVns16+W9/9coBFd0LNZ+ZdfhslC7d1qyvoZHmkI=",
+    "version": "12.4.0"
   },
   {
     "name": "vscode-twoslash-queries",
@@ -194,20 +194,20 @@
   {
     "name": "editorconfig",
     "publisher": "editorconfig",
-    "sha256": "sha256-pFd1CTJL3xQ3HHzQs3f4R5f6xlCghNh8Kv+3AT/Qrqo=",
-    "version": "0.18.1"
+    "sha256": "sha256-y8A3D/IEvBbYSj7mgwU2/AQ1WFb6DolasGThoDz8uEo=",
+    "version": "0.18.2"
   },
   {
     "name": "volar",
     "publisher": "Vue",
-    "sha256": "sha256-69r7DOwCORy1KFqVOT3HPKwhFgrTahbYqc3e3XorouM=",
-    "version": "3.2.5"
+    "sha256": "sha256-KLPb4XTm1lD44D4ajdH1Gr0J0JaN5TpaGp+bCpSuo3U=",
+    "version": "3.2.7"
   },
   {
     "name": "vscode-github-actions",
     "publisher": "github",
-    "sha256": "sha256-hrBFPNMDJ4Usy1TndvEBKkgBJt8vuwsYb1iQz4NhlL4=",
-    "version": "0.31.0"
+    "sha256": "sha256-hGdcMAkzpJqX61Ki87ckFAhncOm6LmNCQh4imIg64oY=",
+    "version": "0.31.5"
   },
   {
     "name": "vscode-github-actions",
@@ -236,26 +236,26 @@
   {
     "name": "python",
     "publisher": "ms-python",
-    "sha256": "sha256-nzNSRAwHkT6iyv5Hfu2g9DgoE6Ecnpgj5+sNERAC07Q=",
-    "version": "2026.2.2026021801"
+    "sha256": "sha256-UxduP78GTTu0JjhC1tJ86gnjlCNvYyK6QavJwmDmavk=",
+    "version": "2026.5.2026032701"
   },
   {
     "name": "debugpy",
     "publisher": "ms-python",
-    "sha256": "sha256-pUD3lAF+LXTE5s9qSykqvuZJA/yfpndpNg6EBMOm/jk=",
-    "version": "2025.19.2026022401"
+    "sha256": "sha256-FLHg2N/XcpF2qL3GSjZ/TNzIH1tYh+OLknpixoO7uyg=",
+    "version": "2026.5.11141010"
   },
   {
     "name": "vscode-python-envs",
     "publisher": "ms-python",
-    "sha256": "sha256-ZVSmSuNgQovTpbuAUtjTrfloT3t3lOKLx6lAvzFgQQQ=",
-    "version": "1.21.10561015"
+    "sha256": "sha256-+y81gt2JEjefSs/X1RB4VwBmWpB0RJSXUpGKDL9xtpI=",
+    "version": "1.29.2026042401"
   },
   {
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "sha256": "sha256-82zIUJBgjbBW0R6ExBLXGYYtYxm1vC7bz/3BvP3IIXA=",
-    "version": "2026.1.1"
+    "sha256": "sha256-ieDCADB243tc5waCLpOKr3Nwd0ky6yqwbOra+bi5t64=",
+    "version": "2026.2.101"
   },
   {
     "name": "vsc-python-indent",
