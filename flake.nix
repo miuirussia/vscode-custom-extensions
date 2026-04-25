@@ -19,7 +19,7 @@
           program = let
             script = writeShellScript "update" ''
               set -euo pipefail
-              export PATH=${lib.makeBinPath [ gitMinimal jq nixVersions.latest hostname node2nix ]}
+              export PATH=${lib.makeBinPath [ gitMinimal jq nixVersions.latest hostname ]}
               export NIX_PATH=nixpkgs=${inputs.nixpkgs}
               echo "Updating plugins..."
               ./update-vscode-plugins.py
