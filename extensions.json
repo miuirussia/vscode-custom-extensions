@@ -182,8 +182,8 @@
   {
     "name": "playwright",
     "publisher": "ms-playwright",
-    "sha256": "sha256-AcORQtllzRh24d8oI0puz1G4RblTzb/DEuyZ/aJ8bHo=",
-    "version": "1.1.18"
+    "sha256": "sha256-N2U+KvmqslmjXSpHovIbT/iVbSV6JrTu1UsoiolW9/Y=",
+    "version": "1.1.19"
   },
   {
     "name": "vscode-import-cost",
@@ -248,8 +248,8 @@
   {
     "name": "vscode-python-envs",
     "publisher": "ms-python",
-    "sha256": "sha256-+y81gt2JEjefSs/X1RB4VwBmWpB0RJSXUpGKDL9xtpI=",
-    "version": "1.29.2026042401"
+    "sha256": "sha256-nmykE7Lan15bDeKgMFPg9X9mqr++YSdgcPIpCfKMfu4=",
+    "version": "1.29.2026042901"
   },
   {
     "name": "vscode-pylance",
