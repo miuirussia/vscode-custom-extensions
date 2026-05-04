@@ -86,3 +86,5 @@
   publisher: ms-python
 - name: vsc-python-indent
   publisher: KevinRose
+- name: ripple-ts-vscode-plugin
+  publisher: Ripple-TS
