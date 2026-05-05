@@ -236,7 +236,7 @@
   {
     "name": "python",
     "publisher": "ms-python",
-    "sha256": "sha256-724a+ZM2oSN0QmzXveB+oGMqT+2OWParl3Ztto01pRI=",
+    "sha256": "sha256-fq/5kNNBN+1hu4x0UmIsomdYM0UO+NhmB0PSUiVztQ0=",
     "version": "2026.5.2026042602"
   },
   {
@@ -266,7 +266,7 @@
   {
     "name": "ripple-ts-vscode-plugin",
     "publisher": "Ripple-TS",
-    "sha256": "sha256-Ldw9p+fQSWl8liado4ClyEqJuX8itx4YtkIcFDhQGf8=",
-    "version": "1.0.23"
+    "sha256": "sha256-aTIWtHVYJtNeeh1OAw/FdP8UFIfgiYmhA/x7+fj4FGc=",
+    "version": "1.0.24"
   }
 ]
