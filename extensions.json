@@ -74,8 +74,8 @@
   {
     "name": "shellcheck",
     "publisher": "timonwong",
-    "sha256": "sha256-A87dG+bBNCMZ8ERDGpVJIP7lXL8rfRely2Uo/ZMsgVI=",
-    "version": "0.39.3"
+    "sha256": "sha256-jVs2rcaS6iK/SvoJ5gfVdIjue8vYzNNEYbb+/jdxEXY=",
+    "version": "0.39.4"
   },
   {
     "name": "vscode-thunder-client",
@@ -164,8 +164,8 @@
   {
     "name": "vscode-tailwindcss",
     "publisher": "bradlc",
-    "sha256": "sha256-58/yM4xP8ewpegNlVSWnyFIoAmEd7E/CigQgae7OgZY=",
-    "version": "0.14.29"
+    "sha256": "sha256-W31OlLnRK4YECKToeG6gfpnvjbVHt4BToSF01lGwvEM=",
+    "version": "0.15.0"
   },
   {
     "name": "prettier-vscode",
@@ -266,7 +266,7 @@
   {
     "name": "ripple-ts-vscode-plugin",
     "publisher": "Ripple-TS",
-    "sha256": "sha256-aTIWtHVYJtNeeh1OAw/FdP8UFIfgiYmhA/x7+fj4FGc=",
-    "version": "1.0.24"
+    "sha256": "sha256-2arKeLqy3s5o9iIUKdgHqVjthSQYAxweHM3l7jUS9hk=",
+    "version": "1.0.25"
   }
 ]
