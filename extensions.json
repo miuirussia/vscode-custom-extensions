@@ -74,8 +74,8 @@
   {
     "name": "shellcheck",
     "publisher": "timonwong",
-    "sha256": "sha256-jVs2rcaS6iK/SvoJ5gfVdIjue8vYzNNEYbb+/jdxEXY=",
-    "version": "0.39.4"
+    "sha256": "sha256-8f9LGmNE8ilPYZmbJpmmAx9DkKJXbQzAia11rM3wTec=",
+    "version": "0.39.5"
   },
   {
     "name": "vscode-thunder-client",
@@ -236,8 +236,8 @@
   {
     "name": "python",
     "publisher": "ms-python",
-    "sha256": "sha256-fq/5kNNBN+1hu4x0UmIsomdYM0UO+NhmB0PSUiVztQ0=",
-    "version": "2026.5.2026042602"
+    "sha256": "sha256-XPxzelLSn47UPiZEmAXlytLPXeK5jheW07k8QdsPGb8=",
+    "version": "2026.5.2026050801"
   },
   {
     "name": "debugpy",
@@ -248,8 +248,8 @@
   {
     "name": "vscode-python-envs",
     "publisher": "ms-python",
-    "sha256": "sha256-1lyW1zD4rfiAEl77DV57yx7UXmYhCEA6/uBB+u6hKRs=",
-    "version": "1.31.2026050701"
+    "sha256": "sha256-+0DN6c2JFVnqmEfmnjKBDiys3hSDi4o4L65gJaMdHzw=",
+    "version": "1.31.2026050801"
   },
   {
     "name": "vscode-pylance",
@@ -266,7 +266,7 @@
   {
     "name": "ripple-ts-vscode-plugin",
     "publisher": "Ripple-TS",
-    "sha256": "sha256-H53+KxmN9QYfeqiwh5a5EJ549JeRxFheuJab3YWaNOA=",
-    "version": "2.0.0"
+    "sha256": "sha256-eD0eOzLBjHMeeT7gD7gn60Hdn8sadp+UDt4RuETagHA=",
+    "version": "2.0.3"
   }
 ]
