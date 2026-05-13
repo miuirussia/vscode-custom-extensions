@@ -50,8 +50,8 @@
   {
     "name": "nix-ide",
     "publisher": "jnoortheen",
-    "sha256": "sha256-epdEMPAkSo0IXsd+ozicI8bjPPquDKIzB3ONRUYWwn8=",
-    "version": "0.5.5"
+    "sha256": "sha256-PUGhTOKJadkEWBzy0WNvnug+0fyJ86B3M2ydzHcmdmc=",
+    "version": "0.5.8"
   },
   {
     "name": "ide-purescript",
@@ -92,8 +92,8 @@
   {
     "name": "vscode-neovim",
     "publisher": "asvetliakov",
-    "sha256": "sha256-oqsqcB2i8zS2pBElTFHh/diffTLFE9IRDjcQv/IcMgU=",
-    "version": "1.18.24"
+    "sha256": "sha256-PTuOqbvhN2lutShMn76uxune/gd5sTc5KSfA2xLhmH8=",
+    "version": "1.19.0"
   },
   {
     "name": "explorer",
@@ -242,8 +242,8 @@
   {
     "name": "debugpy",
     "publisher": "ms-python",
-    "sha256": "sha256-hDhFPZwOH/r7oeZroXD87zu63bl7uUuLAgugYmO8aOM=",
-    "version": "2026.7.11311009"
+    "sha256": "sha256-UG8LJEhywUcDPZFX79v9akyWJxfcUs9zCtIrTqrEwrc=",
+    "version": "2026.7.11321011"
   },
   {
     "name": "vscode-python-envs",
@@ -266,7 +266,7 @@
   {
     "name": "ripple-ts-vscode-plugin",
     "publisher": "Ripple-TS",
-    "sha256": "sha256-hZKN6y2Vj96nBS5SSvAryDdB/NDJty8MjlIX6wv/LlE=",
-    "version": "2.0.4"
+    "sha256": "sha256-BHscosC9c7kb4OFb3WNLWfiL4gcLXPEChzPVndVFV4U=",
+    "version": "2.0.7"
   }
 ]
