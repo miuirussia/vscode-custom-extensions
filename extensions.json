@@ -200,8 +200,8 @@
   {
     "name": "volar",
     "publisher": "Vue",
-    "sha256": "sha256-lbTE5UP4JSpqoXHzS6HPBX2pOQjeBSmHhxqy0thawfc=",
-    "version": "3.2.8"
+    "sha256": "sha256-LkoytGAAZwjm3Mm3EixCHjnh1dkxB0lKMv5KJVYSwGY=",
+    "version": "3.2.9"
   },
   {
     "name": "vscode-github-actions",
@@ -236,26 +236,26 @@
   {
     "name": "python",
     "publisher": "ms-python",
-    "sha256": "sha256-XPxzelLSn47UPiZEmAXlytLPXeK5jheW07k8QdsPGb8=",
-    "version": "2026.5.2026050801"
+    "sha256": "sha256-ctYLRbVbEW7P9mEAoQaME/YWlTpEwOPWdJYMNQODVDg=",
+    "version": "2026.5.2026051301"
   },
   {
     "name": "debugpy",
     "publisher": "ms-python",
-    "sha256": "sha256-UG8LJEhywUcDPZFX79v9akyWJxfcUs9zCtIrTqrEwrc=",
-    "version": "2026.7.11321011"
+    "sha256": "sha256-WG6uB+q3qnIw5+RWN/774dL04YSdGCE3bN8fzhjl4ck=",
+    "version": "2026.7.11331010"
   },
   {
     "name": "vscode-python-envs",
     "publisher": "ms-python",
-    "sha256": "sha256-+0DN6c2JFVnqmEfmnjKBDiys3hSDi4o4L65gJaMdHzw=",
-    "version": "1.31.2026050801"
+    "sha256": "sha256-AiQNlSxBVnBJDXwwr7GbOs6czrIr1HOAUPap+hXSXNM=",
+    "version": "1.31.2026051301"
   },
   {
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "sha256": "sha256-uGJB8vd/+/OdsZ6CUlfzM+eS/CzBOasHi6/BbW6yjdw=",
-    "version": "2026.2.102"
+    "sha256": "sha256-6KnX4sLhCVQEoDt7EWmYUeDHiFgp+Jxz51bf29Ho57M=",
+    "version": "2026.2.103"
   },
   {
     "name": "vsc-python-indent",
@@ -266,7 +266,7 @@
   {
     "name": "ripple-ts-vscode-plugin",
     "publisher": "Ripple-TS",
-    "sha256": "sha256-BHscosC9c7kb4OFb3WNLWfiL4gcLXPEChzPVndVFV4U=",
-    "version": "2.0.7"
+    "sha256": "sha256-cr28YHfDm31d8DWGD60v/Gk6dbo3JDRR9r3QvcnWQV0=",
+    "version": "2.0.8"
   }
 ]
