@@ -200,8 +200,8 @@
   {
     "name": "volar",
     "publisher": "Vue",
-    "sha256": "sha256-LkoytGAAZwjm3Mm3EixCHjnh1dkxB0lKMv5KJVYSwGY=",
-    "version": "3.2.9"
+    "sha256": "sha256-iCMVdB8ArXW/xZMD9umtG5mUTZrYLeRr2usM7D8aBHg=",
+    "version": "3.3.0"
   },
   {
     "name": "vscode-github-actions",
@@ -266,7 +266,7 @@
   {
     "name": "ripple-ts-vscode-plugin",
     "publisher": "Ripple-TS",
-    "sha256": "sha256-n4G829DJKDWPd8CiH0j5hpRaT9anOnc3pWAv2bRhYjA=",
-    "version": "2.0.11"
+    "sha256": "sha256-HRNxOZguDNXlnKM8Rf42iCelcwen0wLZzD3JcTHuthU=",
+    "version": "2.0.12"
   }
 ]
