@@ -200,8 +200,8 @@
   {
     "name": "volar",
     "publisher": "Vue",
-    "sha256": "sha256-iCMVdB8ArXW/xZMD9umtG5mUTZrYLeRr2usM7D8aBHg=",
-    "version": "3.3.0"
+    "sha256": "sha256-UaRIvQ98aT7XZ5rChCNO2D9D1h+ZMAIPm5gc5XznNO4=",
+    "version": "3.3.1"
   },
   {
     "name": "vscode-github-actions",
@@ -218,8 +218,8 @@
   {
     "name": "vscode-custom-css",
     "publisher": "be5invis",
-    "sha256": "sha256-6oLxGAvrtI69ZMnKmV/wU8jbKPgs4RgQ9KL1FgQER0Q=",
-    "version": "7.5.0"
+    "sha256": "sha256-KIeE3zYqxIq7k7/PTRt/1OideOr7qHugm+RFU/zlyig=",
+    "version": "7.5.1"
   },
   {
     "name": "stately-vscode",
@@ -248,7 +248,7 @@
   {
     "name": "vscode-python-envs",
     "publisher": "ms-python",
-    "sha256": "sha256-V1JTjJo2dMfkZKxg0unQTCY2IxVEQ61Q6HuvrnBXkOM=",
+    "sha256": "sha256-V5anlwzLt0V08HsO6TCBIUPD3VPhyohg7YnSc/1++GE=",
     "version": "1.33.2026051501"
   },
   {
