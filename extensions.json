@@ -236,13 +236,13 @@
   {
     "name": "python",
     "publisher": "ms-python",
-    "sha256": "sha256-nDBOm/+0f+QGm+31prjVEKdn6V5OLg8MbfRcy8i1n5c=",
-    "version": "2026.5.2026052001"
+    "sha256": "sha256-ryS0ugEJsKTbuMoUd0G0qZkIQz4idxhlMBaEvw4MyUE=",
+    "version": "2026.5.2026052201"
   },
   {
     "name": "debugpy",
     "publisher": "ms-python",
-    "sha256": "sha256-sr5Vxe5US7KKubbiRvsozJlx2K1e5ldENeb5cuapPIo=",
+    "sha256": "sha256-6ld2Sn46kMrCzxDiWTEvmJnddrccWmRO1/wqZQ+mXbU=",
     "version": "2026.7.11421011"
   },
   {
