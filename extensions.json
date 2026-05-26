@@ -200,8 +200,8 @@
   {
     "name": "volar",
     "publisher": "Vue",
-    "sha256": "sha256-UaRIvQ98aT7XZ5rChCNO2D9D1h+ZMAIPm5gc5XznNO4=",
-    "version": "3.3.1"
+    "sha256": "sha256-aGjhpgBhXVl/0dpWtfn7Eps5r7PJr99Dyu4FlPYtCw0=",
+    "version": "3.3.2"
   },
   {
     "name": "vscode-github-actions",
@@ -236,8 +236,8 @@
   {
     "name": "python",
     "publisher": "ms-python",
-    "sha256": "sha256-ryS0ugEJsKTbuMoUd0G0qZkIQz4idxhlMBaEvw4MyUE=",
-    "version": "2026.5.2026052201"
+    "sha256": "sha256-kZNO205u7vywwQf+6yfoURHuIX9B0w/7vld85XYtBTw=",
+    "version": "2026.5.2026052501"
   },
   {
     "name": "debugpy",
@@ -266,7 +266,7 @@
   {
     "name": "ripple-ts-vscode-plugin",
     "publisher": "Ripple-TS",
-    "sha256": "sha256-BbT+POqOCFLhJyJCEbeTzdqNA3hoR58GLg7nope955g=",
-    "version": "2.0.15"
+    "sha256": "sha256-LklchHKkv3VOzo1kCBJWISLSf4zdqO4qRqOzu8y69nk=",
+    "version": "2.0.17"
   }
 ]
