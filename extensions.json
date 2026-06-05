@@ -122,8 +122,8 @@
   {
     "name": "vscode-eslint",
     "publisher": "dbaeumer",
-    "sha256": "sha256-7YMkUqYCvXnwwjbQ1gs+X4BPPacsFpFGpRvUnlREjAQ=",
-    "version": "3.0.27"
+    "sha256": "sha256-hUNmRQZiIZmvThRB7dJBgILMtpCQjFGRopyjG3TCiqw=",
+    "version": "3.0.29"
   },
   {
     "name": "todo-tree",
@@ -242,20 +242,20 @@
   {
     "name": "debugpy",
     "publisher": "ms-python",
-    "sha256": "sha256-EVrmiG3hNQm376qjkwUGwBgGAfI6HN/61WcvZxqJ/RI=",
-    "version": "2026.7.11491011"
+    "sha256": "sha256-Jb4/ffusA1G2Y4smVQynO093VuLjGGNP501g4cKgVo0=",
+    "version": "2026.7.11551014"
   },
   {
     "name": "vscode-python-envs",
     "publisher": "ms-python",
-    "sha256": "sha256-7UHosZVDSIG1asp4eKdTfFA9mv7t3HMNdQvfuyVsD3c=",
-    "version": "1.33.2026052901"
+    "sha256": "sha256-7Aj7hODgYsxhHVGizE336uzFWHtc6w+M7ry302bswgM=",
+    "version": "1.33.2026060401"
   },
   {
     "name": "vscode-pylance",
     "publisher": "ms-python",
-    "sha256": "sha256-6KnX4sLhCVQEoDt7EWmYUeDHiFgp+Jxz51bf29Ho57M=",
-    "version": "2026.2.103"
+    "sha256": "sha256-aubxyg2J49h30hJZciKjQKQLoak3EPWbUkTy7VwcU9I=",
+    "version": "2026.2.104"
   },
   {
     "name": "vsc-python-indent",
